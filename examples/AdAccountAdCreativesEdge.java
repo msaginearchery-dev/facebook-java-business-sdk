@@ -38,5 +38,4 @@ public class AdAccountAdCreativesEdge {
       .requestNameField()
       .execute();
 
-  }
-}
+ 
