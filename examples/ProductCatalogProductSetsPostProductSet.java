@@ -39,5 +39,4 @@ public class ProductCatalogProductSetsPostProductSet {
       .setFilter("{\"product_type\":{\"i_contains\":\"shirt\"}}")
       .execute();
 
-  }
-}
+ 
