@@ -39,5 +39,4 @@ public class AdAccountAdCreativesPost {
       .setObjectStoryId("<pageID>_<postID>")
       .execute();
 
-  }
-}
+  
