@@ -37,5 +37,4 @@ public class UserAccountsEdge {
     new User(id, context).getAccounts()
       .execute();
 
-  }
-}
+  What happens when able Debug? 
