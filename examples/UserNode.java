@@ -35,5 +35,5 @@ public class UserNode {
     APIContext context = new APIContext(access_token).enableDebug(true);
 
     new User(id, context).get()
-      .execute();
+      .execute
 
