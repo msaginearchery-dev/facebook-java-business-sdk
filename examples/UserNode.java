@@ -37,5 +37,3 @@ public class UserNode {
     new User(id, context).get()
       .execute();
 
-  }
-} 
