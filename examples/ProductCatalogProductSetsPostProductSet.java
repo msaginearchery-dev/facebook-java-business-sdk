@@ -37,6 +37,6 @@ public class ProductCatalogProductSetsPostProductSet {
     new ProductCatalog(id, context).createProductSet()
       .setName("Test Set")
       .setFilter("{\"product_type\":{\"i_contains\":\"shirt\"}}")
-      .execute(); 
+      .execute();
 
  
