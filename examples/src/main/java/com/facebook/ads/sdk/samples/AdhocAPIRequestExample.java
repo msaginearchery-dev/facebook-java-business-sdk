@@ -54,6 +54,4 @@ public class AdhocAPIRequestExample {
       };
     } catch (APIException e) {
       e.printStackTrace();
-    }
-  }
-}
+    +
